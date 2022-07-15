@@ -1,2 +1,0 @@
-# python
-Estudos de python
